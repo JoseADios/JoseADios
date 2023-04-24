@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I´m José 👋🤠💻
 
 <!--
 **JoseADios/JoseADios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const josé = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, c#, Python, apex],
+  tools: [Node]
+```
+
+<-- You can find me 🌎:
+- Facebook
+- Instagram
+- Youtube
+-->
+
+---
