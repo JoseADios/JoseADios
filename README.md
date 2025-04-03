@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate programmer from the Dominican Republic</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on nurSys, a clinic system in Laravel.
 
 - 🌱 I’m currently learning **Python, Laravel, Salesforce**
 
